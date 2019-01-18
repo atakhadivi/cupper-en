@@ -7,7 +7,7 @@ The name of Cupper means be better than common user passwords profiler (cupp). A
 ### Screenshot
 Version information:
 
-![Image text](https://raw.githubusercontent.com/Saferman/cupper/master/images/version.png)
+![Image text](https://raw.githubusercontent.com/atakhadivi/cupper-en/master/images/version.png)
 
 ### Features
 
